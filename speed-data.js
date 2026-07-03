@@ -5,11 +5,11 @@ metagross|4|메타그로스|Metagross|강철/에스퍼|70
 archaludon|5|브리두라스|Archaludon|강철/드래곤|85
 raichu|6|라이츄|Raichu|전기|110
 charizard|7|리자몽|Charizard|불꽃/비행|100
-alolan-ninetales|8|알로라 나인테일|Ninetales [Alolan Form]|얼음/페어리|109
-hippowdon|9|하마돈|Hippowdon|땅|47
-staraptor|10|찌르호크|Staraptor|노말/비행|100
-corviknight|11|아머까오|Corviknight|비행/강철|67
-blaziken|12|번치코|Blaziken|불꽃/격투|80
+hippowdon|8|하마돈|Hippowdon|땅|47
+alolan-ninetales|9|알로라 나인테일|Ninetales [Alolan Form]|얼음/페어리|109
+blaziken|10|번치코|Blaziken|불꽃/격투|80
+staraptor|11|찌르호크|Staraptor|노말/비행|100
+corviknight|12|아머까오|Corviknight|비행/강철|67
 hydreigon|13|삼삼드래|Hydreigon|악/드래곤|98
 primarina|14|누리레느|Primarina|물/페어리|60
 gyarados|15|갸라도스|Gyarados|물/비행|81
@@ -20,12 +20,12 @@ glimmora|19|킬라플로르|Glimmora|바위/독|86
 wash-rotom|20|워시로토무|Wash Rotom|전기/물|86
 dragonite|21|망나뇽|Dragonite|드래곤/비행|80
 grimmsnarl|22|오롱털|Grimmsnarl|악/페어리|60
-pelipper|23|패리퍼|Pelipper|물/비행|65
-gholdengo|24|타부자고|Gholdengo|강철/고스트|84
+gholdengo|23|타부자고|Gholdengo|강철/고스트|84
+pelipper|24|패리퍼|Pelipper|물/비행|65
 mawile|25|입치트|Mawile|강철/페어리|50
-skeledirge|26|라우드본|Skeledirge|불꽃/고스트|66
-kingambit|27|대도각참|Kingambit|악/강철|50
-greninja|28|개굴닌자|Greninja|물/악|122
+greninja|26|개굴닌자|Greninja|물/악|122
+skeledirge|27|라우드본|Skeledirge|불꽃/고스트|66
+kingambit|28|대도각참|Kingambit|악/강철|50
 gengar|29|팬텀|Gengar|고스트/독|110
 dragalge|30|드래캄|Dragalge|독/드래곤|44
 aegislash|31|킬가르도|Aegislash|강철/고스트|60
@@ -78,26 +78,26 @@ armarouge|77|카디나르마|Armarouge|불꽃/에스퍼|75
 maushold|78|파밀리쥐|Maushold|노말|111
 hatterene|79|브리무음|Hatterene|에스퍼/페어리|29
 scolipede|80|펜드라|Scolipede|벌레/독|112
-banette|81|다크펫|Banette|고스트|65
-slowbro|82|야도란|Slowbro|물/에스퍼|30
-maushold-r83|83|파밀리쥐|Maushold|노말|111
+slowbro|81|야도란|Slowbro|물/에스퍼|30
+scrafty|82|곤율거니|Scrafty|악/격투|58
+banette|83|다크펫|Banette|고스트|65
 hisuian-goodra|84|히스이 미끄래곤|Goodra [Hisuian Form]|강철/드래곤|60
-empoleon|85|엠페르트|Empoleon|물/강철|60
-polteageist|86|포트데스|Polteageist|고스트|70
-chandelure|87|샹델라|Chandelure|고스트/불꽃|80
-galarian-slowking|88|가라르 야도킹|Slowking [Galarian Form]|독/에스퍼|30
+vileplume|85|라플레시아|Vileplume|풀/독|50
+empoleon|86|엠페르트|Empoleon|물/강철|60
+diggersby|87|파르토|Diggersby|노말/땅|78
+chandelure|88|샹델라|Chandelure|고스트/불꽃|80
 fancy-vivillon|89|비비용|Vivillon [Fancy Pattern]|벌레/비행|89
-pyroar|90|화염레오|Pyroar|불꽃/노말|106
-toucannon|91|왕큰부리|Toucannon|노말/비행|60
-hisuian-arcanine|92|히스이 윈디|Arcanine [Hisuian Form]|불꽃/바위|90
-chesnaught|93|브리가론|Chesnaught|풀/격투|64
-gliscor|94|글라이온|Gliscor|땅/비행|95
-conkeldurr|95|노보청|Conkeldurr|격투|45
-orthworm|96|꿈트렁|Orthworm|강철|65
-vaporeon|97|샤미드|Vaporeon|물|65
-palafin|98|돌핀맨|Palafin|물|100
-heliolisk|99|일레도리자드|Heliolisk|전기/노말|109
-basculegion-female|100|대쓰여너♀|Basculegion [Female]|물/고스트|78`;
+abomasnow|90|눈설왕|Abomasnow|풀/얼음|60
+polteageist|91|포트데스|Polteageist|고스트|70
+barbaracle|92|거북손데스|Barbaracle|바위/물|68
+galarian-slowking|93|가라르 야도킹|Slowking [Galarian Form]|독/에스퍼|30
+pyroar|94|화염레오|Pyroar|불꽃/노말|106
+hisuian-arcanine|95|히스이 윈디|Arcanine [Hisuian Form]|불꽃/바위|90
+toucannon|96|왕큰부리|Toucannon|노말/비행|60
+orthworm|97|꿈트렁|Orthworm|강철|65
+gliscor|98|글라이온|Gliscor|땅/비행|95
+conkeldurr|99|노보청|Conkeldurr|격투|45
+chesnaught|100|브리가론|Chesnaught|풀/격투|64`;
 
 window.MEGA_CSV = `garchomp|메가한카리아스|Mega Garchomp|드래곤/땅|92
 metagross|메가메타그로스|Mega Metagross|강철/에스퍼|110
