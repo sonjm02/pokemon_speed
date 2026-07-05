@@ -13,18 +13,18 @@ staraptor|12|찌르호크|Staraptor|노말/비행|100
 hydreigon|13|삼삼드래|Hydreigon|악/드래곤|98
 primarina|14|누리레느|Primarina|물/페어리|60
 gyarados|15|갸라도스|Gyarados|물/비행|81
-basculegion|16|대쓰여너|Basculegion|물/고스트|78
-delphox|17|마폭시|Delphox|불꽃/에스퍼|104
+delphox|16|마폭시|Delphox|불꽃/에스퍼|104
+basculegion|17|대쓰여너|Basculegion|물/고스트|78
 swampert|18|대짱이|Swampert|물/땅|60
 glimmora|19|킬라플로르|Glimmora|바위/독|86
 wash-rotom|20|워시로토무|Wash Rotom|전기/물|86
 dragonite|21|망나뇽|Dragonite|드래곤/비행|80
-grimmsnarl|22|오롱털|Grimmsnarl|악/페어리|60
-greninja|23|개굴닌자|Greninja|물/악|122
+greninja|22|개굴닌자|Greninja|물/악|122
+grimmsnarl|23|오롱털|Grimmsnarl|악/페어리|60
 mawile|24|입치트|Mawile|강철/페어리|50
-gholdengo|25|타부자고|Gholdengo|강철/고스트|84
-pelipper|26|패리퍼|Pelipper|물/비행|65
-skeledirge|27|라우드본|Skeledirge|불꽃/고스트|66
+skeledirge|25|라우드본|Skeledirge|불꽃/고스트|66
+gholdengo|26|타부자고|Gholdengo|강철/고스트|84
+pelipper|27|패리퍼|Pelipper|물/비행|65
 kingambit|28|대도각참|Kingambit|악/강철|50
 gengar|29|팬텀|Gengar|고스트/독|110
 aegislash|30|킬가르도|Aegislash|강철/고스트|60
@@ -59,8 +59,8 @@ milotic|58|밀로틱|Milotic|물|81
 floette|59|플라엣테|Floette|페어리|52
 froslass|60|눈여아|Froslass|얼음/고스트|110
 espathra|61|클레스퍼트라|Espathra|에스퍼|105
-ditto|62|메타몽|Ditto|노말|48
-snorlax|63|잠만보|Snorlax|노말|30
+snorlax|62|잠만보|Snorlax|노말|30
+ditto|63|메타몽|Ditto|노말|48
 araquanid|64|깨비물거미|Araquanid|물/벌레|42
 skarmory|65|무장조|Skarmory|강철/비행|70
 gardevoir|66|가디안|Gardevoir|에스퍼/페어리|80
