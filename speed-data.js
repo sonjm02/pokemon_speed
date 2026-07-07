@@ -134,3 +134,16 @@ sableye|메가깜까미|Mega Sableye|악/고스트|20
 banette|메가다크펫|Mega Banette|고스트|75
 slowbro|메가야도란|Mega Slowbro|물/에스퍼|30
 pyroar|메가화염레오|Mega Pyroar|불꽃/노말|126`;
+
+(function updateRankingDateLabels() {
+  const apply = () => {
+    document.querySelectorAll('.crit, .notice').forEach(el => {
+      el.textContent = el.textContent
+        .replace('2026년 7월 2일 업데이트', '2026년 7월 6일 업데이트')
+        .replace('2026년 7월 2일 업데이트된', '2026년 7월 6일 업데이트된')
+        .replace('Updated: July 02, 2026', 'Updated: July 06, 2026');
+    });
+  };
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', apply);
+  else apply();
+})();
