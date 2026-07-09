@@ -41,19 +41,19 @@ vanilluxe|40|배바닐라|Vanilluxe|얼음|79
 meganium|41|메가니움|Meganium|풀|80
 venusaur|42|이상해꽃|Venusaur|풀/독|80
 sneasler|43|포푸니크|Sneasler|격투/독|120
-blastoise|44|거북왕|Blastoise|물|78
-lucario|45|루카리오|Lucario|격투/강철|90
-annihilape|46|저승갓숭|Annihilape|격투/고스트|90
-sylveon|47|님피아|Sylveon|페어리|60
-mamoswine|48|맘모꾸리|Mamoswine|얼음/땅|80
-bellibolt|49|찌리배리|Bellibolt|전기|45
-whimsicott|50|엘풍|Whimsicott|풀/페어리|116
-toxapex|51|더시마사리|Toxapex|독/물|35
-clefable|52|픽시|Clefable|페어리|60
-tyranitar|53|마기라스|Tyranitar|바위/악|61
-excadrill|54|몰드류|Excadrill|땅/강철|88
-azumarill|55|마릴리|Azumarill|물/페어리|50
-heat-rotom|56|히트로토무|Heat Rotom|전기/불꽃|86
+lucario|44|루카리오|Lucario|격투/강철|90
+blastoise|45|거북왕|Blastoise|물|78
+bellibolt|46|찌리배리|Bellibolt|전기|45
+annihilape|47|저승갓숭|Annihilape|격투/고스트|90
+sylveon|48|님피아|Sylveon|페어리|60
+toxapex|49|더시마사리|Toxapex|독/물|35
+tyranitar|50|마기라스|Tyranitar|바위/악|61
+excadrill|51|몰드류|Excadrill|땅/강철|88
+whimsicott|52|엘풍|Whimsicott|풀/페어리|116
+mamoswine|53|맘모꾸리|Mamoswine|얼음/땅|80
+clefable|54|픽시|Clefable|페어리|60
+heat-rotom|55|히트로토무|Heat Rotom|전기/불꽃|86
+azumarill|56|마릴리|Azumarill|물/페어리|50
 hisuian-zoroark|57|히스이 조로아크|Zoroark [Hisuian Form]|노말/고스트|110
 milotic|58|밀로틱|Milotic|물|81
 espathra|59|클레스퍼트라|Espathra|에스퍼|105
